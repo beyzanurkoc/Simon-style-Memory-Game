@@ -16,14 +16,6 @@ As the player progresses, the game becomes more difficult by increasing pattern 
 
 ---
 
-## Course Information
-
-- **Course Code:** CENG 329  
-- **Project Type:** Course Project  
-- **Date:** 01/01/2026  
-
----
-
 ## 1. System Overview
 
 In this project, a Simon-style memory game was implemented on the MSP430 microcontroller.  
